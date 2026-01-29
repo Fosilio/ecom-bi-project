@@ -1,1 +1,0 @@
-# ecom-bi-project
